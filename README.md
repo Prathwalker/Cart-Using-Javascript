@@ -1,7 +1,3 @@
-Certainly! Here's a README.md file for a shopping cart project implemented using only JavaScript with DOM manipulation:
-
----
-
 # JavaScript Shopping Cart
 
 This project is a simple implementation of a shopping cart using JavaScript with DOM manipulation. Users can add products to the cart, remove products, and increase the quantity of products.
